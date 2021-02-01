@@ -9,12 +9,6 @@
 <!--
 - ⚡ My Work 👇
 
-----> <a href="https://xccuratesecurity.in/" target="_blank">Xccurate Security</a> (Recently Completed) <br>
-----> <a href="https://www.freebookpost.ml/" target="_blank">FreeBookPost</a> (Completed on Nov 2020) <br>
-----> <a href="https://www.betaprogrammer.ml/" target="_blank">Beta Programmer</a> (Completed on Oct 2020) <br>
-----> <a href="http://www.healthcare-funds.ml/" target="_blank">Funny Game</a> (Completed on Sept 2020) <br>
-----> <a href="http://codevic.epizy.com/" target="_blank">Codevic</a> (Completed on June 2020) <br>
-----> <a href="https://github.com/jineshnagori/onlinequizportal/" target="_blank">Online Quiz Portal</a> (Completed on April 2020)
 -->
 
 ### Connect with me:
@@ -42,13 +36,13 @@
 <br />
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&layout=compact" alt="jineshnagori" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitjangid097&layout=compact" alt="Mohitjangid097" /></p>
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&theme=white-blue" alt="jineshnagori" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitjangid097&theme=white-blue" alt="Mohitjangid097" /></p>
 
 <br />
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jineshnagori&show_icons=true" alt="jineshnagori" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohitjangid097&show_icons=true" alt="Mohitjangid097" /></p>
 
